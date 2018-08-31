@@ -26,4 +26,9 @@ Debugger works after adding `export CUDA_DEBUGGER_SOFTWARE_PREEMPTION=1` to `~/.
 
 #### Edits to CMakeLists.txt
 
-TODO
+`src/CMakeLists.txt` was updated to increment the architecture value from 20 to 30. 
+
+    cuda_add_library(src
+        ${SOURCE_FILES}
+        OPTIONS -arch=sm_30
+    )
