@@ -32,3 +32,7 @@ Debugger works after adding `export CUDA_DEBUGGER_SOFTWARE_PREEMPTION=1` to `~/.
         ${SOURCE_FILES}
         OPTIONS -arch=sm_30
     )
+
+#### Feedback
+
+A nice intro to the dev environment.
