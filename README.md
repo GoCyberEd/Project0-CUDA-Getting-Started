@@ -6,6 +6,7 @@ Project 0 CUDA Getting Started
 * Edward Atter
   * [LinkedIn](https://www.linkedin.com/in/atter/)
   * Tested on: Linux Mint 18.3 Sylvia (4.13.0-41-generic), Ryzen 7 2700x @ 3.7 ghz (base clock) 16GB, GTX 1070 TI 8GB GDDR5 (Personal)
+  * CUDA 9
 
 ### Project Information
 
